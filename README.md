@@ -7,5 +7,5 @@ the method that using python and Flash to design RESTful APIs was learned from:
 
 1. The API provides GET, POST and DELETE function for restaurant, Menu, Menu Item.
 2. The API is run in port 5000
-3. just run python python for REST API
+3. just run python python for REST API.py
 4. The task can devide into two parts: first create a simple web app, code as :api web app;Second,create the API by using Flask library of Python, and I learned this from http://flask-restful-cn.readthedocs.io/en/0.3.5/quickstart.html.
