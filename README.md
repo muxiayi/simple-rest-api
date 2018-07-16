@@ -1,5 +1,5 @@
 # simple-rest-api
-Try to learn how to create REST API, so do a very simple task.
+Try to create REST API, so do a very simple task.
 
 the method that using python and Flash to design RESTful APIs was learned from:
 1. http://flask-restful-cn.readthedocs.io/en/0.3.5/quickstart.html 
